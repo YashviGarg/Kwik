@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953228875565",
+    "project_id": "kwik-4ca3f",
+    "storage_bucket": "kwik-4ca3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953228875565:android:a814c2c69aea5622a0e5a4",
+        "android_client_info": {
+          "package_name": "com.example.kwik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953228875565-c0gosd393qs267hvb9bjeceq864gr5h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE8z94cXbCjS7zzCHVfT4qi-VwYywSkMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953228875565-c0gosd393qs267hvb9bjeceq864gr5h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
