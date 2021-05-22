@@ -12,7 +12,9 @@
         android:name="androidx.multidex.MultiDexApplication"
         android:theme="@style/Theme.Kwik">
 
-        <activity android:name=".MessageActivity"></activity>
+        <activity android:name=".MessageActivity"
+            android:parentActivityName=".StartActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
 
         <activity
             android:name=".LoginActivity"

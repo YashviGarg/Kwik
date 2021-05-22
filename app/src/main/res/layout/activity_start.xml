@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    android:background="#472397"
+    android:background="@drawable/background"
     android:layout_height="match_parent"
     tools:context=".StartActivity">
 
